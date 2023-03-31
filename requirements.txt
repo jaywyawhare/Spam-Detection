@@ -1,0 +1,7 @@
+pandas
+nltk
+sklearn
+matplotlib
+sklearn
+re
+time
